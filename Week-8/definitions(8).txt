@@ -1,0 +1,11 @@
+'f-string':  An f-string is a formatted string literal in Python. Introduced in Python 3.6, it allows expressions to be embedded inside string literals, using curly braces {}. 
+
+Format Specifier: A format specifier is a special syntax used in formatting strings to control the placement and appearance of values within the string. 
+
+File modes: File modes in programming, particularly in the context of file operations, refer to the different permissions and actions that can be performed on a file. 
+
+Binary Files: Binary files are files that contain data in a format that is not human-readable, unlike text files. 
+
+Random Access: Random access refers to the ability to access data at any position in a data structure directly, without the need to sequentially traverse the data. 
+
+Exceptions: Exception is an event that occurs during the execution of a program that disrupts the normal flow of instructions. 
