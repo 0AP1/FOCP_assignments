@@ -1,0 +1,9 @@
+Method: A method, in the context of programming, refers to a function that is associated with an object.
+
+List Comprehension: List comprehension is a concise way to create lists in programming languages.
+
+Tuple Packing: Tuple packing refers to the process of creating a tuple by grouping multiple values together. 
+
+Tuple: A tuple is an ordered and immutable collection of elements in Python. Tuples are similar to lists but cannot be modified once created. 
+
+Sequence Unpacking:Sequence unpacking is the reverse of tuple packing. It involves extracting individual elements from a tuple or any other iterable and assigning them to separate variables.
