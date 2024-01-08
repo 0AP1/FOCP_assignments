@@ -1,0 +1,9 @@
+Set: A set is a collection of distinct elements, considered as an object in its own right. 
+
+Set operations: Set operations are mathematical operations performed on sets to create new sets or to manipulate existing ones. 
+
+Set comprehension: Set comprehension is a concise way to define a set by specifying its elements based on certain conditions.
+
+Dictionary: A dictionary is a data structure that stores data in key-value pairs.
+
+key:value pair: key:value pair in a dictionary represents a unique identifier (key) associated with a corresponding value.
