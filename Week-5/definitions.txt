@@ -1,0 +1,9 @@
+IDE - Integrated Development Environment. A software application that provides comprehensive facilities for software development.
+
+Module - A reusable Python code file that contains definitions like functions/classes and can be imported into other programs.
+
+Command Line Arguments - Values supplied when executing a program from command line. Available via sys.argv list.
+
+Symbol table - A data structure that keeps track of all the names defined in a program, including variables and functions.
+
+Search path - List of directories that the Python interpreter searches through when trying to locate a module to import. Defined in sys.path.
